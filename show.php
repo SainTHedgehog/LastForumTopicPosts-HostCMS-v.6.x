@@ -21,6 +21,7 @@
 * @author Hostmake LLC
 * @copyright © 2005-2013 ООО "Хостмэйк" (Hostmake LLC), http://www.hostcms.ru
 */
+
 class Forum_Last_Posts_Show extends Core_Controller
 {
    /**
